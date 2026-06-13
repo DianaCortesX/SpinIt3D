@@ -1,4 +1,5 @@
 # SpinIt3D
+A Capstone prototype devoloped by a team of students from the Polytechnic University of Puerto Rico's Biomedical Engineering Department.
 
 # Digital Centrifuge Capstone
 This repository contains the Arduino IDE firmware and touchscreen UI headers for a biomedical engineering capstone project: a digitally controlled centrifuge using a Raspberry Pi Pico/Pico W, SPI TFT touchscreen, motor speed control, and safety interlocks.
